@@ -1,0 +1,2 @@
+# euler
+playing with golang
